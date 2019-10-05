@@ -156,7 +156,7 @@ public/
 
 # DynamoDB Local files
 .dynamodb/
-
+trash/
 ### react ###
 .DS_*
 **/*.backup.*
